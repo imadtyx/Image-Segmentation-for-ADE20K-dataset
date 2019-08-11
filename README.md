@@ -7,6 +7,6 @@ Caution: The length of this data is terrbly large and hence you'd not be able to
 
 Below are the results after the training.
 
-<img src="https://github.com/AdityaShrivastava9/Image-Segmentation-for-ADK20K-dataset/edit/master/download.png">
+<img src= ' https://github.com/AdityaShrivastava9/Image-Segmentation-for-ADK20K-dataset/edit/master/download.png'>
 
 
